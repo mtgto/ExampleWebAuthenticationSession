@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  ExampleWebAuthenticationSession
-//
-//  Created by mtgto on 2025/04/15.
-//
+// SPDX-License-Identifier: Apache-2.0
 
 import SwiftUI
 
