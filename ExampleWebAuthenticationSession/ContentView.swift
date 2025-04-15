@@ -50,7 +50,7 @@ struct ContentView: View {
                     do {
                         let urlWithToken = try await webAuthenticationSession.authenticate(
                             using: authorizeUrl!,
-                            callbackURLScheme: "net.mtgto.gpm"
+                            callbackURLScheme: "net.mtgto.examplewebauthenticationsession"
                         )
                         // Retrieve code and state params from callback url
                         guard let urlComponents = URLComponents(url: urlWithToken, resolvingAgainstBaseURL: false),
