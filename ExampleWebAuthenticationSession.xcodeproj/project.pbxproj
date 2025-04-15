@@ -35,7 +35,10 @@
 				CE2BA6622DAE70D400402BE3 /* ExampleWebAuthenticationSession */,
 				CE2BA6612DAE70D400402BE3 /* Products */,
 			);
+			indentWidth = 4;
 			sourceTree = "<group>";
+			tabWidth = 4;
+			usesTabs = 0;
 		};
 		CE2BA6612DAE70D400402BE3 /* Products */ = {
 			isa = PBXGroup;
